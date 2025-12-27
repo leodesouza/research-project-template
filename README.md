@@ -1,7 +1,11 @@
-# research-project-template
+# Research Project Template
 
-## Cookiecutter Data Science
+## References
+### Cookiecutter Data Science
 https://cookiecutter-data-science.drivendata.org/
 
-## PyTorch Example Repositories
+### PyTorch Example Repositories
 https://github.com/pytorch/examples
+
+### Academic References
+https://github.com/ageron/handson-ml2
